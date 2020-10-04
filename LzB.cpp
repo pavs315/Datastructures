@@ -33,6 +33,7 @@ ll cycledetect(ll k)
     else
     {
         flag1=0;
+	    \\whateven
     }
     if(flag1==1)
 	{
