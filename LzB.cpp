@@ -1,8 +1,9 @@
+#define ll long long int
 #include<iostream>
 #include<vector>
 using namespace std;
-#define ll long long int
-#define MAX 200007
+#define ld long double
+#define MAX 1000007
 #define pb push_back
 ll vis[MAX],a[MAX];
 vector<ll> v;
